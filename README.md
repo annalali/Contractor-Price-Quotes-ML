@@ -1,6 +1,6 @@
 # 🏗️ التنبؤ بقبول عروض أسعار المقاولين — مشروع تعلم الآلة والتعلم العميق
 
-> ### 🚀 [اضغط هنا لتجربة التطبيق التفاعلي المباشر (Live Demo — Hugging Face)](https://huggingface.co)
+> ### 🚀 [اضغط هنا لتجربة التطبيق التفاعلي المباشر (Live Demo — AI Quote Predictor)](https://annalali6969-contractor-price-quotes-demo.hf.space)
 
 **`Python 3.10+`** • **`Scikit-Learn 1.6.1`** • **`TensorFlow / Keras`** • **`XGBoost & LightGBM`** • **`Status: Completed ✅`**
 
