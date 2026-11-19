@@ -1,11 +1,14 @@
-[![Live Demo](https://shields.io🚀_Live_Demo-Hugging_Face_Spaces-21897e?style=for-the-badge)](https://huggingface.co)
+
 
 # 🏗️ التنبؤ بقبول عروض أسعار المقاولين — مشروع تعلم الآلة والتعلم العميق
+
+[![Live Demo](https://shields.io)](https://huggingface.co)
 
 ![Python](https://shields.io)
 ![Scikit-Learn](https://shields.io)
 ![TensorFlow](https://shields.io)
 ![Status](https://shields.io)
+
 
 ## 📌 نظرة عامة على المشروع
 يهدف هذا المشروع إلى بناء منظومة متكاملة لتعلم الآلة (Machine Learning) والتعلم العميق (Deep Learning) للتنبؤ بمدى **قبول عرض سعر المقاول (`1`)** أو **رفضه (`0`)** من قِبل العملاء في قطاع المقاولات والبناء.
