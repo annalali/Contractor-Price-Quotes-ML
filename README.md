@@ -64,4 +64,4 @@
 * **تعلم الآلة**: `scikit-learn`, `xgboost`, `lightgbm`
 * **التعلم العميق**: `tensorflow`, `keras`
 * **نشر التطبيق (Deployment)**: `gradio`, `joblib`, `Hugging Face Spaces`
-* **الرسوم البيانية**: `matplotlib`, `seaborn` (باستخدام لوحة ألوان مخصصة للمشروع: `#21897e`, `#3ba99c`, `#69d1c5`, `#7ebce6`, `#8980f5`)
+* **الرسوم البيانية**: (`matplotlib`, `seabor`)
